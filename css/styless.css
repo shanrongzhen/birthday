@@ -440,12 +440,12 @@ body {
 	opacity:1;
 	z-index:100;
 }
-.button-style1 {
+.button-style2 {
 	position:absolute;
 	left:25%;
 	animation:btn1 15s;
 }
-.button-style2 {
+.button-style1 {
 	position:absolute;
 	right:25.5%;
 	animation:btn2 15s;
